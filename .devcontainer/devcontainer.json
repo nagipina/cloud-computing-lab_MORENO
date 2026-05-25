@@ -1,0 +1,4 @@
+{
+  "name": "Il mio Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
+}
